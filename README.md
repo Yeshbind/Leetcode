@@ -21,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/Yeshbind/Leetcode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Yeshbind/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yeshbind/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Yeshbind/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
