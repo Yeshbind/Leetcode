@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yeshbind/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/Yeshbind/Leetcode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Yeshbind/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yeshbind/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
