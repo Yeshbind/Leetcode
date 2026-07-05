@@ -24,6 +24,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Yeshbind/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Yeshbind/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yeshbind/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Yeshbind/Leetcode/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yeshbind/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
