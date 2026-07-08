@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
 | [1528-shuffle-string](https://github.com/Yeshbind/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yeshbind/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -19,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Yeshbind/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yeshbind/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yeshbind/Leetcode/tree/master/0344-reverse-string) |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Yeshbind/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
