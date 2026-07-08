@@ -25,6 +25,7 @@
 | [0058-length-of-last-word](https://github.com/Yeshbind/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yeshbind/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Yeshbind/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Yeshbind/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Yeshbind/Leetcode/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Yeshbind/Leetcode/tree/master/0443-string-compression) |
@@ -64,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Yeshbind/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yeshbind/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
