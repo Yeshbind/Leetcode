@@ -27,6 +27,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Yeshbind/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Yeshbind/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Yeshbind/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yeshbind/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Yeshbind/Leetcode/tree/master/1528-shuffle-string) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Yeshbind/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
