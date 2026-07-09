@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Yeshbind/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Yeshbind/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
@@ -106,4 +107,8 @@
 | ------- |
 | [0179-largest-number](https://github.com/Yeshbind/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Yeshbind/Leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Yeshbind/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
