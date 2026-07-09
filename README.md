@@ -9,6 +9,7 @@
 | [0179-largest-number](https://github.com/Yeshbind/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Yeshbind/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1528-shuffle-string](https://github.com/Yeshbind/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yeshbind/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yeshbind/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
