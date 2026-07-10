@@ -41,6 +41,7 @@
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Yeshbind/Leetcode/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/Yeshbind/Leetcode/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Yeshbind/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Yeshbind/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Yeshbind/Leetcode/tree/master/0844-backspace-string-compare) |
