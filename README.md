@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Yeshbind/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
