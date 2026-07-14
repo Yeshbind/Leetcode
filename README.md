@@ -14,6 +14,7 @@
 | [0179-largest-number](https://github.com/Yeshbind/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yeshbind/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Yeshbind/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Yeshbind/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yeshbind/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Yeshbind/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -164,6 +166,7 @@
 | [0075-sort-colors](https://github.com/Yeshbind/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Yeshbind/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Yeshbind/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yeshbind/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1331-rank-transform-of-an-array) |
