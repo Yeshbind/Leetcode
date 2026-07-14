@@ -59,6 +59,7 @@
 | [0344-reverse-string](https://github.com/Yeshbind/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Yeshbind/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Yeshbind/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Yeshbind/Leetcode/tree/master/0443-string-compression) |
@@ -85,6 +86,7 @@
 | [0009-palindrome-number](https://github.com/Yeshbind/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/Yeshbind/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -179,6 +181,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Yeshbind/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Yeshbind/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Yeshbind/Leetcode/tree/master/1920-build-array-from-permutation) |
