@@ -2,15 +2,14 @@
         class Solution {
     public String convert(String s, int numRows) {
 
-        // If there is only one row, no zigzag is possible
         if (numRows == 1 || s.length() <= numRows) {
             return s;
         }
 
-        // Create a StringBuilder for each row
+       
         StringBuilder[] rows = new StringBuilder[numRows];
 
-        // Initialize each StringBuilder
+       
         for (int i = 0; i < numRows; i++) {
             rows[i] = new StringBuilder();
         }
