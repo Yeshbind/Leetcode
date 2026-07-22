@@ -94,6 +94,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yeshbind/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2490-circular-sentence](https://github.com/Yeshbind/Leetcode/tree/master/2490-circular-sentence) |
 ## Math
 |  |
 | ------- |
