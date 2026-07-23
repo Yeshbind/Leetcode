@@ -1,19 +1,20 @@
 class Solution {
     public boolean judgeCircle(String moves) {
 
-        HashMap<Character , Integer> map = new HashMap<>();
+        int x = 0 ;
+        int y = 0;
 
         for(int i = 0 ; i < moves.length() ; i++ ){
+            
+            char move = moves.charAt(i);
 
-            map.put(moves.charAt(i),map.getOrDefault(moves.charAt(i),0)+1);
+            if(move == 'U') y++;
+            else if(move == 'D') y--;
+            else if(move == 'R') x++;
+            else x--;
+ 
+
         }
-
-        int up = map.getOrDefault('U', 0);
-        int down = map.getOrDefault('D', 0);
-        int left = map.getOrDefault('L', 0);
-        int right = map.getOrDefault('R', 0);
-
-        return (up == down) && (left == right);
-        
+        return x == 0 && y == 0;
     }
 }
