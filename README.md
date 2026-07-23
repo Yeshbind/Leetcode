@@ -104,6 +104,7 @@
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Yeshbind/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
