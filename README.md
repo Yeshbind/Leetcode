@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshbind/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Yeshbind/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yeshbind/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeshbind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshbind/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yeshbind/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Yeshbind/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Yeshbind/Leetcode/tree/master/0412-fizz-buzz) |
