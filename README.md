@@ -122,6 +122,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Yeshbind/Leetcode/tree/master/2427-number-of-common-factors) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yeshbind/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yeshbind/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yeshbind/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
@@ -222,6 +223,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yeshbind/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yeshbind/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
