@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Yeshbind/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Yeshbind/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Yeshbind/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Yeshbind/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -117,6 +118,7 @@
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Yeshbind/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yeshbind/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -220,6 +222,7 @@
 | [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yeshbind/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Yeshbind/Leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Yeshbind/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1331-rank-transform-of-an-array) |
