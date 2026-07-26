@@ -47,6 +47,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Yeshbind/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yeshbind/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -188,6 +189,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Yeshbind/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/Yeshbind/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
@@ -233,6 +236,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/Yeshbind/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yeshbind/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yeshbind/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
