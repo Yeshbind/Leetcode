@@ -46,6 +46,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yeshbind/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Yeshbind/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yeshbind/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -186,6 +187,7 @@
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
