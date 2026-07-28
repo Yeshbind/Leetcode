@@ -12,9 +12,12 @@ class Solution {
                if( s.charAt(j) == ' '){
                 count++;
                } 
-            //    max =count;
+           
             }
-            max = Math.max(max , count );
+            if(count> max){
+                max = count;
+            }
+            // max = Math.max(max , count );
         }
         return max;
     }
