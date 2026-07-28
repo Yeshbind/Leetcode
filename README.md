@@ -118,6 +118,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yeshbind/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yeshbind/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2490-circular-sentence](https://github.com/Yeshbind/Leetcode/tree/master/2490-circular-sentence) |
+| [2716-minimize-string-length](https://github.com/Yeshbind/Leetcode/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/Yeshbind/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/Yeshbind/Leetcode/tree/master/3110-score-of-a-string) |
 ## Math
@@ -200,6 +201,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2716-minimize-string-length](https://github.com/Yeshbind/Leetcode/tree/master/2716-minimize-string-length) |
 ## Sliding Window
 |  |
 | ------- |
