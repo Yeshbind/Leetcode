@@ -22,6 +22,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yeshbind/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yeshbind/Leetcode/tree/master/0414-third-maximum-number) |
@@ -168,6 +169,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Yeshbind/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Yeshbind/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Yeshbind/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yeshbind/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
@@ -319,6 +322,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshbind/Leetcode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yeshbind/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Yeshbind/Leetcode/tree/master/0704-binary-search) |
