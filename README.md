@@ -32,6 +32,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Yeshbind/Leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Yeshbind/Leetcode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yeshbind/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -72,6 +73,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeshbind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshbind/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yeshbind/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -353,4 +356,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Yeshbind/Leetcode/tree/master/0206-reverse-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
