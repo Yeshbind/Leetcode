@@ -41,6 +41,7 @@
 | [1260-shift-2d-grid](https://github.com/Yeshbind/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yeshbind/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/Yeshbind/Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Yeshbind/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshbind/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0728-self-dividing-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yeshbind/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -368,4 +371,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
