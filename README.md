@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Yeshbind/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Yeshbind/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -350,6 +351,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Yeshbind/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Yeshbind/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
