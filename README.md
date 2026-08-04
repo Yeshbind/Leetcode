@@ -62,6 +62,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Yeshbind/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2716-minimize-string-length](https://github.com/Yeshbind/Leetcode/tree/master/2716-minimize-string-length) |
+| [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Yeshbind/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yeshbind/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
