@@ -337,6 +337,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshbind/Leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Yeshbind/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yeshbind/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -389,4 +390,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Yeshbind/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
