@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshbind/Leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Yeshbind/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Yeshbind/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yeshbind/Leetcode/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@
 | [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Yeshbind/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Yeshbind/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yeshbind/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -206,6 +208,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Yeshbind/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Yeshbind/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Yeshbind/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
@@ -266,6 +269,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Yeshbind/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Yeshbind/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Yeshbind/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Yeshbind/Leetcode/tree/master/0179-largest-number) |
