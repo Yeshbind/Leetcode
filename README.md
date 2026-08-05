@@ -39,6 +39,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Yeshbind/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Yeshbind/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yeshbind/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Yeshbind/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Counting
@@ -414,4 +416,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
