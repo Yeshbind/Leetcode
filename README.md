@@ -34,6 +34,7 @@
 | [0414-third-maximum-number](https://github.com/Yeshbind/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Yeshbind/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Yeshbind/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Yeshbind/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yeshbind/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,6 +86,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeshbind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshbind/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 ## String
@@ -155,6 +157,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yeshbind/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Yeshbind/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yeshbind/Leetcode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Yeshbind/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
@@ -397,18 +400,22 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Yeshbind/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 ## Interactive
 |  |
