@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yeshbind/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Yeshbind/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yeshbind/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yeshbind/Leetcode/tree/master/0414-third-maximum-number) |
@@ -73,6 +74,7 @@
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Yeshbind/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0229-majority-element-ii](https://github.com/Yeshbind/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yeshbind/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Yeshbind/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yeshbind/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Yeshbind/Leetcode/tree/master/0383-ransom-note) |
@@ -253,6 +256,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Yeshbind/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yeshbind/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Yeshbind/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yeshbind/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -280,6 +284,7 @@
 | [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Yeshbind/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yeshbind/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yeshbind/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Yeshbind/Leetcode/tree/master/0389-find-the-difference) |
@@ -368,11 +373,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -400,4 +407,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Yeshbind/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Yeshbind/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yeshbind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
