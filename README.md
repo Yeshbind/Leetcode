@@ -42,6 +42,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Yeshbind/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yeshbind/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Yeshbind/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yeshbind/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -372,6 +373,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Yeshbind/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Yeshbind/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yeshbind/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
@@ -449,4 +451,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yeshbind/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yeshbind/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
