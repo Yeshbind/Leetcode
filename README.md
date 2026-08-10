@@ -44,6 +44,7 @@
 | [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yeshbind/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Yeshbind/Leetcode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Yeshbind/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yeshbind/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -374,6 +375,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Yeshbind/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yeshbind/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Yeshbind/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
