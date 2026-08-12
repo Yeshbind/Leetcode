@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Yeshbind/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeshbind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshbind/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Yeshbind/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Yeshbind/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Yeshbind/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Yeshbind/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Yeshbind/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Yeshbind/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Yeshbind/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Yeshbind/Leetcode/tree/master/0217-contains-duplicate) |
@@ -363,6 +365,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Yeshbind/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yeshbind/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
