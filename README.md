@@ -79,6 +79,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yeshbind/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yeshbind/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -342,6 +343,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Yeshbind/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yeshbind/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
