@@ -61,6 +61,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Yeshbind/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Yeshbind/Leetcode/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/Yeshbind/Leetcode/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yeshbind/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yeshbind/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yeshbind/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -102,6 +103,7 @@
 | [1140-stone-game-ii](https://github.com/Yeshbind/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yeshbind/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yeshbind/Leetcode/tree/master/1563-stone-game-v) |
 ## String
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yeshbind/Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Yeshbind/Leetcode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yeshbind/Leetcode/tree/master/2029-stone-game-ix) |
@@ -449,6 +452,7 @@
 | [1140-stone-game-ii](https://github.com/Yeshbind/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yeshbind/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yeshbind/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Yeshbind/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
