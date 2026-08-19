@@ -55,6 +55,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yeshbind/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yeshbind/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Yeshbind/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/Yeshbind/Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -239,6 +240,7 @@
 | [0455-assign-cookies](https://github.com/Yeshbind/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Yeshbind/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Yeshbind/Leetcode/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/Yeshbind/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Yeshbind/Leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Yeshbind/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -267,6 +269,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Yeshbind/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yeshbind/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Yeshbind/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/Yeshbind/Leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -352,6 +355,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Yeshbind/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Yeshbind/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yeshbind/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1386-cinema-seat-allocation](https://github.com/Yeshbind/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
