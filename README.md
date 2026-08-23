@@ -159,6 +159,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Yeshbind/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yeshbind/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Yeshbind/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yeshbind/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yeshbind/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -191,6 +192,7 @@
 | [1512-number-of-good-pairs](https://github.com/Yeshbind/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Yeshbind/Leetcode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Yeshbind/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yeshbind/Leetcode/tree/master/2029-stone-game-ix) |
 | [2427-number-of-common-factors](https://github.com/Yeshbind/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -246,6 +248,7 @@
 | [0860-lemonade-change](https://github.com/Yeshbind/Leetcode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Yeshbind/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Yeshbind/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Yeshbind/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yeshbind/Leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Yeshbind/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yeshbind/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -469,6 +472,7 @@
 | [1406-stone-game-iii](https://github.com/Yeshbind/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yeshbind/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yeshbind/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Yeshbind/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yeshbind/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
