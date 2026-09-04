@@ -92,6 +92,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yeshbind/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Yeshbind/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -453,6 +454,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Yeshbind/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Yeshbind/Leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Yeshbind/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Yeshbind/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
