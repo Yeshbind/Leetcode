@@ -163,6 +163,7 @@
 | [1436-destination-city](https://github.com/Yeshbind/Leetcode/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Yeshbind/Leetcode/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/Yeshbind/Leetcode/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yeshbind/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Yeshbind/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Yeshbind/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -333,6 +334,7 @@
 | [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Yeshbind/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -622,4 +624,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Yeshbind/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Yeshbind/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
