@@ -51,6 +51,7 @@
 | [0875-koko-eating-bananas](https://github.com/Yeshbind/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yeshbind/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yeshbind/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/Yeshbind/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Yeshbind/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/Yeshbind/Leetcode/tree/master/1140-stone-game-ii) |
