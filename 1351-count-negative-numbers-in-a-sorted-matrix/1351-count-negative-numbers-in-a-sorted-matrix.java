@@ -7,11 +7,23 @@ class Solution {
         int count = 0;
 
         for(int i = 0 ; i< n; i++ ){
-            for(int j =0 ; j< m; j++){
-                if(grid[i][j] < 0){
-                    count++;
+            int low = 0;
+            int high  = m-1;
+
+            while(low<=high){
+                int mid = low +(high-low) /2;
+
+                if(grid[i][mid] < 0){
+                    high = mid-1;
                 }
+                else{
+                    low = mid+1;
+                }
+
             }
+
+            count += m-low;
+
         }
         
         return count;
