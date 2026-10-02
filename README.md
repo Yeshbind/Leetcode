@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yeshbind/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeshbind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@
 | [0006-zigzag-conversion](https://github.com/Yeshbind/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Yeshbind/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yeshbind/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Yeshbind/Leetcode/tree/master/0058-length-of-last-word) |
@@ -562,6 +564,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yeshbind/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Ternary Search
 |  |
@@ -641,6 +644,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
