@@ -121,6 +121,7 @@
 | [0022-generate-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Yeshbind/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeshbind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshbind/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0392-is-subsequence) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yeshbind/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Yeshbind/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Yeshbind/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
@@ -690,4 +692,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Yeshbind/Leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Yeshbind/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
