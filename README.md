@@ -96,6 +96,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Yeshbind/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yeshbind/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yeshbind/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yeshbind/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yeshbind/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yeshbind/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -300,6 +301,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yeshbind/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Yeshbind/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yeshbind/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yeshbind/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yeshbind/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
@@ -336,6 +338,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Yeshbind/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2716-minimize-string-length](https://github.com/Yeshbind/Leetcode/tree/master/2716-minimize-string-length) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yeshbind/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yeshbind/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yeshbind/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -428,6 +431,7 @@
 | [0389-find-the-difference](https://github.com/Yeshbind/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yeshbind/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/Yeshbind/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
