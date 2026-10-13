@@ -104,6 +104,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yeshbind/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yeshbind/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yeshbind/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Yeshbind/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -306,6 +307,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yeshbind/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yeshbind/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yeshbind/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yeshbind/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yeshbind/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
