@@ -108,6 +108,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yeshbind/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yeshbind/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yeshbind/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Yeshbind/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yeshbind/Leetcode/tree/master/3731-find-missing-elements) |
@@ -457,6 +458,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yeshbind/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/Yeshbind/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yeshbind/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Yeshbind/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yeshbind/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
