@@ -142,6 +142,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yeshbind/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Yeshbind/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Yeshbind/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeshbind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshbind/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Yeshbind/Leetcode/tree/master/0392-is-subsequence) |
@@ -240,6 +241,7 @@
 | [0009-palindrome-number](https://github.com/Yeshbind/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Yeshbind/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Yeshbind/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Yeshbind/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yeshbind/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshbind/Leetcode/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yeshbind/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -762,6 +764,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yeshbind/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yeshbind/Leetcode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yeshbind/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
