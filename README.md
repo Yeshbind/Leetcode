@@ -230,6 +230,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yeshbind/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yeshbind/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yeshbind/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Yeshbind/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Yeshbind/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2490-circular-sentence](https://github.com/Yeshbind/Leetcode/tree/master/2490-circular-sentence) |
 | [2716-minimize-string-length](https://github.com/Yeshbind/Leetcode/tree/master/2716-minimize-string-length) |
@@ -516,6 +517,7 @@
 | [1920-build-array-from-permutation](https://github.com/Yeshbind/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yeshbind/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yeshbind/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Yeshbind/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yeshbind/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yeshbind/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
