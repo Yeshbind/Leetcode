@@ -286,6 +286,7 @@
 | [2029-stone-game-ix](https://github.com/Yeshbind/Leetcode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Yeshbind/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Yeshbind/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/Yeshbind/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yeshbind/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yeshbind/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yeshbind/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
