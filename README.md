@@ -43,6 +43,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yeshbind/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Yeshbind/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Yeshbind/Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Yeshbind/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yeshbind/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yeshbind/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yeshbind/Leetcode/tree/master/0575-distribute-candies) |
@@ -391,6 +392,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshbind/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Yeshbind/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Yeshbind/Leetcode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Yeshbind/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Yeshbind/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yeshbind/Leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Yeshbind/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -435,6 +437,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yeshbind/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Yeshbind/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Yeshbind/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Yeshbind/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
@@ -711,6 +714,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Yeshbind/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Yeshbind/Leetcode/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
